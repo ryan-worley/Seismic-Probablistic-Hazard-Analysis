@@ -1,7 +1,7 @@
 Active Programs: 
-PHSA APPLICATION - Main File by which to run the analysis
+PHSA APPLICATION - Main File by which to run the analysis. Open this file in matlab to view dashboard application.
 
-Passive Functions Incorporated into APP:
+Backend functions within APP:
 averageAnnualLoss - Computs average annual loss from hazard curve and loss deaggregation. Combines components of demo, collapse, and repair.
 collapseFragility - Creates collapse fragility from structural analysis input
 createPolyFit - Creates best fit polyfit for 3rd or 4th degree hazard fit to hazard curve
@@ -18,7 +18,7 @@ saveStuff - Save callback for App, saves relevant information for access.
 
 
 Data:
-Sample output is sample of what comes out of running response program. 
+Sample output is sample of what comes out of running response program. Upload to correponding positions within the application. 
 
 
 
